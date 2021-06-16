@@ -1,5 +1,13 @@
 # Test_space
 
+A headless CMS site with [Storyblok](https://www.storyblok.com) as CMS.
+
+## Tutorial
+https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial#connecting-storyblok-with-nuxt-js
+
+## Problems
+The storyblokteam is now looking into an error in their plugins.
+
 ## Build Setup
 
 ```bash
